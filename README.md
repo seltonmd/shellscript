@@ -1,2 +1,2 @@
 # shellscript
-Introdução ao shell scrpit
+Introdução ao shell script
